@@ -8,5 +8,5 @@ source for creating a thrust stand
 
 read_thruststand.py - using on pc to read data from esp32 on thrust stand
 
-thrust_stand_control_esp32C3supermini.ino - upload to the esp32 on thrust stand
+thrust_stand_control_esp32C3supermini.ino - upload to the esp32 on thrust stand (Check the pinout in this code)
 
